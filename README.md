@@ -1,2 +1,2 @@
-git basic exercises
+writing assignment
 
